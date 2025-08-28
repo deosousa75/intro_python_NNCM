@@ -28,3 +28,13 @@ Imprima esses resultados em tela.
 - Exercício 4.14 - Reescrever um programa de comparação de números.
 - Exercício 4.15 - Reescrever um programa de comparação com horário.
 - Exercício 4.16 - Reescrever um programa de comparação com média.
+- Exercício 5.1 - Escreva um programa para exibir os números de 1 a 100
+- Exercício 5.2 - Escreva um programa para exibir os números de 50 a 100
+- Exercício 5.3 - Escreva um programa para escrever a contagem regressiva do lançamento de um foguete. O programa deve imprimir 10, 9, 8, ..., 0, e Fogo! na tela.
+- Exercício 5.4 - Escreva um programa que imprima os números ímpares do número 1 até o número digitado pelo usuário.
+- Exercício 5.5 - Escreva um programa que imprima os 10 primeiros múltiplos de 3.
+- Exercício 5.6 - Escreva um programa que faça a tabuada de multiplação (1 a 10) do número informado pelo usuário.
+- Exercício 5.7 - Modifique o programa anterior de modo que o usuário digite também o início e o fim da tabuada.
+- Exercício 5.8 - Escreva um programa que leia dois números. Imprima o resultado da multiplicação do primeiro pelo segundo. Utilizando apenas os operadores de soma e subtração para calcular o resultado.
+- Exercício 5.9 - Escreva um programa que leia dois números. Imprima a divisão do primeiro pelo segundo, assim como o resto da divisão. Utilize apenas os operadores de soma e subtração para calcular o resultado.
+- Exercício 5.10 - Reescrever um programa que verifica correção de questões
