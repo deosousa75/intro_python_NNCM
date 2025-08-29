@@ -38,3 +38,18 @@ Imprima esses resultados em tela.
 - Exercício 5.8 - Escreva um programa que leia dois números. Imprima o resultado da multiplicação do primeiro pelo segundo. Utilizando apenas os operadores de soma e subtração para calcular o resultado.
 - Exercício 5.9 - Escreva um programa que leia dois números. Imprima a divisão do primeiro pelo segundo, assim como o resto da divisão. Utilize apenas os operadores de soma e subtração para calcular o resultado.
 - Exercício 5.10 - Reescrever um programa que verifica correção de questões
+- Exercício 5.11 - Escreva um programa que pergunte o depósito inicial e a taxa de juros de uma poupança. Exiba os valores mês a mês para os 24 primeiros meses. Escreva o total ganho com juros no período.
+- Exercício 5.12 - Altere o programa anterior de forma a perguntar também o valor depositado mensalmente. Esse valor será depositado no início de cada mês, e você deve considerá-lo para o calculo de juros do ês seguinte.
+- Exercício 5.13 - Escreva um programa que pergunte o valor inicial de uma divida e o juros mensal. Pergunte também o valor mensal que será pago. Imprima o número de meses para que a divida seja paga, o total pago e o total de juros pago.
+- Exercício 5.14 - Escreva um programa que leia números inteiros do teclado. O programa deve ler os os números até que o usuário digite 0 (zero). No final da execução, exiba a quantidade de números digitados, assim como a soma e a média aritmética.
+- Exercício 5.15 - Escreva um programa para controlar uma pequena máquina registradora. Você deve solicitar ao usuário que digite o código do produto e a quantidade comprada. Utilize a tabela de códigos a seguir para obter o preço de cada produto:
+Código -    Preço
+1           0,50
+2           1,00
+3           4,00
+5           7,00
+9           8,00
+O programa deve exibir o total das compras depois que o usuário digitar 0. Qualquer outro código deve gerar a mensagem de erro "Código invalido".
+- Exercício 5.16 - Executar o programa de contagem de cédulas com os valores: 501, 745, 384, 2, 7, 1.
+- Exercício 5.18 - Modifique o programa para trabalhar com notas de 100
+- Exercício 5.19 - Modifique o programa para aceitar valores decimais, ou seja, também aceitas moedas e 0,01; 0,02; 0,05; 0,10 e 0,50.
