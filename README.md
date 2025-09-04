@@ -53,3 +53,7 @@ O programa deve exibir o total das compras depois que o usuário digitar 0. Qual
 - Exercício 5.16 - Executar o programa de contagem de cédulas com os valores: 501, 745, 384, 2, 7, 1.
 - Exercício 5.18 - Modifique o programa para trabalhar com notas de 100
 - Exercício 5.19 - Modifique o programa para aceitar valores decimais, ou seja, também aceitas moedas e 0,01; 0,02; 0,05; 0,10 e 0,50.
+- Exercício 5.21 - Reescreva o programa de contagem de cédulas de forma a continuar executando até que o valor digitado seja 0. Utilize repetições aninhadas.
+- Exercício 5.22 - Escreva um programa que exiba uma lista de opções (menu): adição, subtração, divisão, multiplicação e sair. Imprima a tabuda da operação escolhida. Repita ateé que opção de saída seja escolhida.
+- Exercício 5.23 - Escreva um programa que leia um número e verifique se é ou não um número primro. Para fazer essa verificação, calcule o resto da divisão do número por 2 e depois por todos os números primos impares até o número lido. Se o resto de uma dessas divisões for igual a zero, o número não é primo. Observe que 0 e 1 não são primos e que o 2 é o único número primo que é par.
+- Exercício 5.24 - Modifique o programa anterior de forma a ler um número n. Imprima os n primeiros números primos.
