@@ -57,3 +57,9 @@ O programa deve exibir o total das compras depois que o usuário digitar 0. Qual
 - Exercício 5.22 - Escreva um programa que exiba uma lista de opções (menu): adição, subtração, divisão, multiplicação e sair. Imprima a tabuda da operação escolhida. Repita ateé que opção de saída seja escolhida.
 - Exercício 5.23 - Escreva um programa que leia um número e verifique se é ou não um número primro. Para fazer essa verificação, calcule o resto da divisão do número por 2 e depois por todos os números primos impares até o número lido. Se o resto de uma dessas divisões for igual a zero, o número não é primo. Observe que 0 e 1 não são primos e que o 2 é o único número primo que é par.
 - Exercício 5.24 - Modifique o programa anterior de forma a ler um número n. Imprima os n primeiros números primos.
+- Exercício 5.25 - Escreva um programa que calcule a raiz quadrada de um número. Utilize o método de Newton para obter um resultado arpoximado. Sendo n o número a obter a raiz quadrada, considere a base b=2. Calcule p usano a fórmula p=(b+(n/b))/2. Agora, calcule o quadrado de p. A cada passo, faça b=p e recalcule p usando a fórmula apresentada. Pare quando a diferença absoluta entre n e o quadrado de p for menor que 0,0001.
+- Exercício 5.26 - Escreva um programa que calcule o resto da divisão inteira entre dois números. Utilize apenas as operações de soma e subtração para calcular o resultado.
+- Exercício 5.27 - Escreva um programa que verifique se um número é palíndromo. Um número é palíndromo se continua o mesmo caso seus digitos sejam invertidos. Exemplos: 454, 10501.
+- Exercício 6.1 - Modifique o programa de notas para ler 7 notas ao invés de 5.
+- Exercício 6.2 - Faça um programa que leia duas listas e gere uma terceira com os elementos das duas primeiras.
+- Exercício 6.3 - Faça um programa que percorra duas listas e gere um terceira sem elementos repetidos.
