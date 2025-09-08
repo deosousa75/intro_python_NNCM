@@ -63,3 +63,5 @@ O programa deve exibir o total das compras depois que o usuário digitar 0. Qual
 - Exercício 6.1 - Modifique o programa de notas para ler 7 notas ao invés de 5.
 - Exercício 6.2 - Faça um programa que leia duas listas e gere uma terceira com os elementos das duas primeiras.
 - Exercício 6.3 - Faça um programa que percorra duas listas e gere um terceira sem elementos repetidos.
+- Exercício 6.5 - Altere o programa de fila de forma a poder trabalhar com vários comandos digitados de uma só vez. Atualmente, apenas um comando pode ser inserido por vez. Altere-o de forma a considerar operação como uma string. Exemplo: FFFAAAS significaria três chegadas de novos clientes, três atendimentos e, finalmente, a saída do programa.
+- Exercício 6.6 - Modifique o programa para trabalhar com duas filas. Para facilitar seu trabalho, considere o comando A para atendimento da fila 1; e B, para atendimento da fila 2. O mesmopara a chegada de clientes: F para fila 1 e G para fila 2.
